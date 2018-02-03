@@ -1,0 +1,12 @@
+Source: cnchess
+Section: games
+Priority: optional
+Maintainer: Wei Mingzhi <whistler@openoffice.org>
+Build-Depends: debhelper (>= 5), libqt3-mt-dev, sed
+Standards-Version: 3.7.2
+
+Package: cnchess
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: Chinese Chess game
+ Chinese chess game.

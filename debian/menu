@@ -1,0 +1,2 @@
+?package(llk):needs="X11" section="Games/Board" \
+  title="Chinese Chess" command="/usr/games/cnchess"

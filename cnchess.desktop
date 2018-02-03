@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Chinese Chess
+Name[zh_CN]=中国象棋
+Exec=cnchess
+Icon=xv
+Type=Application
+Terminal=false
+Categories=Qt;KDE;Game;BoardGame;

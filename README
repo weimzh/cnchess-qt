@@ -1,0 +1,5 @@
+作者：frog
+2005.06.16
+email：gorfllew@163.com
+
+本软件在红旗linux4.1平台下开发，测试通过。使用（Qt3.3.2），借助kdevelop-qmake工程（kdevelop3.0.92）实现。源代码可直接在kdevelop中编译运行。
